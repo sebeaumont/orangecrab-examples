@@ -1,5 +1,5 @@
 
-CROSS=riscv64-unknown-elf-
+CROSS=riscv32-unknown-elf-
 CFLAGS=
 
 all: blink_fw.dfu
